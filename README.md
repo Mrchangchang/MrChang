@@ -1,4 +1,5 @@
 # hexo博客搭建
+
 参考文档[hexo文档](https://hexo.io/zh-cn/docs/"hexo文档"){:target="_blank"}
 
 ### hexo-cli的安装
@@ -25,3 +26,6 @@ nodeJS全局安装hexo-cli
 
 ### 写作hexo博客
 
+使用 hexo new [layout] <title> 生成新的博客文件，具体参考hexo文档
+
+### 部署到远程服务器
